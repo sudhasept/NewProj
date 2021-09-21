@@ -5,7 +5,7 @@ module "storage_buckets_iam_binding" {
   source          = "./modules/storage_buckets_iam/"
   storage_buckets = [var.storage_bucket_one, var.storage_bucket_two]
   mode            = "additive"
-  set_admin_roles = true
+  #set_admin_roles = true
 
   bindings = {
     "roles/storage.legacyBucketOwner" = [
@@ -14,11 +14,6 @@ module "storage_buckets_iam_binding" {
       "user:${var.user_email}",
     ]
 
-    "roles/storage.objectAdmin" = [
-      "serviceAccount:${var.sa_email}",
-      "group:${var.group_email}",
-      "user:${var.user_email}",
-    ]
     "roles/storage.legacyBucketWriter" = [
       "serviceAccount:${var.sa_email}",
       "group:${var.group_email}",

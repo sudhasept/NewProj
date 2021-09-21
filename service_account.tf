@@ -20,11 +20,13 @@ module "service_account_iam_binding" {
       "group:${var.group_email}",
       "user:${var.user_email}",
     ]
-  }
-  conditional_bindings = [
-    {
-      role = "roles/iam.serviceAccountUser"
-      members = ["user:${var.user_email}"]
-    }
-  ]
+
+    "roles/iam.serviceAccountUser" = [
+      "serviceAccount:${var.sa_email}",
+      "group:${var.group_email}",
+      "user:${var.user_email}",
+    ]
+
+
+   }
 }

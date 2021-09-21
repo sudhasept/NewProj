@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "swift-hangar-326619",
+  "private_key_id": "0fd983ae02cc8ce28188e8f59d1e5f3081e5d010",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDSKHVAKyQpLQHL\nBV46aeS9uKhjZl3nqLvC/mw/QbtHeeY/f14dKa+cO+AN1NgWqFBgIRW8fp5nUJIu\nCLVGvmlvMqAGQYX0WoDTI9BJKt25m75ULjwzHMb/vbHDvB4/Ye86AKimKHn8pn0R\nxRrjb7x2khON9VqPnOUUy8dlaCHJsl31UbKXLiRrok4Rai8W/wCodfcGU/dJIgAL\nkAhg782VN0fnNHvJ2KhesADd1sLd6PVTpP/Q01L74Fbwe4HH9CQfv3Ia6VXCxSFM\ngwM34lksfzFoatI2btNlESF1IRi0SzbEjvOq694KSbvsdB9+xET648KOWuYTPTSo\ngah572vTAgMBAAECggEABI5xAFh1gVkJW9DJerdW1ZAxdaCmDFxAE4AdpUxBCbf7\nkhV3KADoq38wbxkixQowKyCWG1vP0zCctfFlY/VdgG/KDWirq7qvzIqCiduRxBdV\nPvdjqCRv4hXHfi8DC6yNZoxvtTtVoPDHiTRk579BiEnH5I3ujgRaT4mdg8+h3LQY\nJCtq9usr5LESreHcEXQ127DyqSkQOSwCe9niLr61zAMlcQtxWJSE2CiSWBmPb+48\nwhxI5T0sqXa6lCQLkusxvCiEPLc6abeddiRMrR2T7aX41resH/YKrgG5WdwSW9kL\ntiPbIH7YqQthxAK6FLsqtXSXsxl5SOvp5nKWIsvF/QKBgQDulNVJT0pV3kKzGDOQ\nuvE9wne2klqLBYmH109/KkAVUr6fEAllT2yPMqYpSCTPTZZ10BsL6UTEzssRqaKF\ngckaztnQ/JBsaXGQObyu72zR9Lw6KVHqQXuf3YsGB1DcF42gehCDY3IZuSch+BXe\nkI6NOKZWI8OM5ykdl1NbMuiMBQKBgQDhgGIL7fGbA1EyfAIJYGrsexSnvdawhe1j\n9dkT5sPx7V7U8ndtK7IEVKnP+AMAiZas7Ok+BWqA8eZUTuWTldNt5OCV42cagipU\nht0ZYjH+VwCoUSXoE7FOgn8bMps1zGThQuDxLgXWSALWBhR5/0NZa0XYbZ9wz53l\ndLnO+7J39wKBgQDpGzBd5YPq7DPdStsvIQiOYFCZaNvgk3Nx71R0GjLs4qDvRzr2\n6qhWLZWeJigZCGTnDYMvmyae6LIOuuDZcxqr/8lgYTU3R7s2wMLzZWm8plO2vCKW\nMI76fvrT1BgUQ0sUrc8uoN6d9YMftIahpDo0D1KuPVlWdZF9oRpHtDD0hQKBgQCV\nrtBmNsV/Lc6CAkqfyr5uxqxJQ/v0JJIVHiW/zhgWyIeANooLj0uVEFW/1FK50pqP\nopqYLqQpf2hyYgSF2JgFhD2HgPD5aZmLjhHJPaMNvtaS43qT+C5jfL++X/Mi3M/B\nrtD9hp0dRaOMSXDiIgykmE4+gVWqXkXi/34u5GfstQKBgQC1PQ91YYNkZmZi+viQ\nZP7wFAcDG/2SRhTARzddnVgA6DEhHIKBNEoYGXhbPSdeL9M2/cir9hQASlTlAMRe\nEZ1/k7/OJLQVHpbW4/JKwPNpkRRowN/cLELX4iulowxK/uXkOZRROuFFt+M1uVXX\nGaYa5b4vdTKA6ESdIsy5q2JZ6w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "findright@swift-hangar-326619.iam.gserviceaccount.com",
+  "client_id": "110193157658843214551",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/findright%40swift-hangar-326619.iam.gserviceaccount.com"
+}

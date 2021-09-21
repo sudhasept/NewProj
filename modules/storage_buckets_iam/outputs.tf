@@ -14,7 +14,7 @@ output "members" {
   description = "Members which were bound to the Storage Bucket."
 }
 
-output "bucket" {
-  description = "The created storage bucket"
-  value       = google_storage_bucket.bucket
-}
+#output "bucket" {
+#  description = "The created storage bucket"
+ # value       = google_storage_bucket.bucket
+#}
